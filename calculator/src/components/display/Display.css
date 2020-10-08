@@ -1,0 +1,12 @@
+
+.display {
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 92%;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}

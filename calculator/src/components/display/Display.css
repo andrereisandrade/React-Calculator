@@ -1,12 +1,14 @@
-
 .display {
   background-color: black;
   color: white;
-  height: 50px;
-  width: 92%;
+  height: 120px;
+  width: 100%;
   text-align: right;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 10px;
+}
+.display > h1 {
+  margin: 10px;
+  font-size: 3.5em;
 }
